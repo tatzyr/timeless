@@ -1,5 +1,7 @@
 # timeless
 
+plain timetable app
+
 ## Project setup
 ```
 npm install
