@@ -2,6 +2,8 @@
 
 plain timetable app
 
+https://tatzyr.github.io/timeless/
+
 ## Project setup
 ```
 npm install
@@ -20,6 +22,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Publish
+```
+npm run publish
 ```
 
 ### Customize configuration
